@@ -1,0 +1,78 @@
+h1{
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Courier New', Courier, monospace;
+    word-spacing: 6px;
+    padding: 33px 190px;
+}
+hr{
+    width: 450px;
+    border-style: dashed;
+    border-color: gray;
+    /* margin: 20px auto; */
+}
+h2{
+    text-align: center;
+    font-size: 35px;
+}
+p{
+    text-align: center;
+    font-size: 24px;
+}
+#box1{
+    background-color: rgb(125, 173, 125);
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    border: 10px solid skyblue;
+    outline: 6px solid black;
+    box-shadow: 0 0 0 15px rgb(213, 98, 98);
+
+}
+.circle{
+    background-color: rgb(125, 173, 125);
+    width: 200px;;
+    width: 17px;
+    height: 17px;
+    display: inline-block;
+    border-radius: 50%;
+    vertical-align: middle;
+    margin-right: 10px;
+}
+.Padding{
+    background-color: skyblue;
+}
+.Border{
+    background-color: black;
+}
+.Margin{
+    background-color: rgb(201, 96, 96);
+}
+.marker-container{
+    text-align: center;
+    margin: 40px;
+   
+}
+.marker{
+    margin: 0 9px;
+    display: inline-block;
+}
+#container{
+    width: 600px;
+    border: 1px solid black;
+    margin: 15px auto;
+    font-size: 0px;
+}
+.same{
+    width: 180px;
+    height: 100px;
+    margin: 10px;
+    background-color: gray;
+    display: inline-block;
+}
+.border{
+    border: 1px solid black;
+}
+.border-box{
+    box-sizing: border-box;
+}
