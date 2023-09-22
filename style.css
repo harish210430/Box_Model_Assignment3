@@ -31,7 +31,7 @@ p{
 }
 .circle{
     background-color: rgb(125, 173, 125);
-    width: 200px;;
+    /* width: 200px;; */
     width: 17px;
     height: 17px;
     display: inline-block;
